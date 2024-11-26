@@ -1,1 +1,1 @@
-![Preview](https://widget.nowplaying.site/NXHiyCyytDkgBUjj)
+![Preview](https://tthn.pythonanywhere.com)
